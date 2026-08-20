@@ -10,6 +10,10 @@ hence no button cutouts on the right side.
 Print in PLA or PETG.
 Requires 4x M2.5 x 5mm screws for assembly.
 
+### Alternatives
+
+[Waveshare RP2350 2.8 inch case by cofob on MakerWorld (with buttons)](https://makerworld.com/en/models/3204749-waveshare-rp2350-2-8inch-case)
+
 ### Images
 
 ![FreeCAD render of the case](Case-Rev4.png "FreeCAD model view")
