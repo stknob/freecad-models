@@ -1,7 +1,9 @@
 ## Waveshare RP2350 Touch 2.8 Inch LCD Case
 
-Designed to be used as a case for (RS-Key)[https://github.com/TheMaxMur/RS-Key],
+Designed to be used as a case for [RS-Key](https://github.com/TheMaxMur/RS-Key),
 hence no button cutouts on the right side.
+
+**License:** CC-BY-NC-SA 4.0
 
 ### Materials
 
