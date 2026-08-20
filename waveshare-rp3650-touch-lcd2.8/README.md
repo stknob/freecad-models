@@ -1,0 +1,15 @@
+## Waveshare RP2350 Touch 2.8 Inch LCD Case
+
+Designed to be used as a case for (RS-Key)[https://github.com/TheMaxMur/RS-Key],
+hence no button cutouts on the right side.
+
+### Materials
+
+Print in PLA or PETG.
+Requires 4x M2.5 x 5mm screws for assembly.
+
+### Images
+
+![FreeCAD render of the case](Case-Rev4.png "FreeCAD model view")
+![Back-side photo of the assembled case](Case-Rev4-Front.jpg "Assembled case: Front")
+![Front-side photo of the assembled case](Case-Rev4-Back.jpg "Assembled case: Back")
